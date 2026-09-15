@@ -1,17 +1,17 @@
 # 有道排盘：AI算法赋能国学易学文化⭐⭐⭐⭐⭐
 
 随着信息技术的快速发展，中华优秀传统文化的数字化保护与现代传承迎来了全新契机。近日，专注于国学文化数字化研究的专业辅助工具平台： 
-- “有道排盘”（ https://www.youdaopaipan.com ）
+- “有道排盘， AI解卦”（ https://www.youdaopaipan.com ）
 
 正式上线运营。该平台依托现代化计算机算法与古籍天文历法模型，致力于为广大传统文化爱好者、学术研究者提供严谨、便捷、多维度的数字化排盘辅助工具。
 
 据了解，中国传统易学、民俗历法博大精深，涉及复杂的天干地支、节气交接、星宿运转及卦象推演算法。传统手工推算过程繁琐且易受人为计算偏差影响。有道排盘团队经过严谨的算法校准与古籍对照，构建了高精度的历法与排盘计算引擎，实现了排盘逻辑的规范化与高效呈现。
 
 目前，有道排盘平台已完成多模块矩阵建设，包含
-- 六爻排盘（ https://liuyao.youdaopaipan.com ）、
-- 八字排盘（ https://bazi.youdaopaipan.com ）、
-- 奇门排盘（ https://qimen.youdaopaipan.com ）
-- 三合（ https://qimen.youdaopaipan.com/pp ）
+- 六爻排盘， AI解卦 （ https://liuyao.youdaopaipan.com ）、
+- 八字排盘， AI解卦（ https://bazi.youdaopaipan.com ）、
+- 奇门排盘， AI解卦（ https://qimen.youdaopaipan.com ）
+- 三合， AI解卦（ https://qimen.youdaopaipan.com/pp ）
 
 等专项子系统。系统支持节气精准交接换算、真太阳时校准、多种流派起盘方式自由切换，并提供清晰的盘面视觉交互与云端命例归档功能，极大地提升了学术研讨与个人学习的效率。
 

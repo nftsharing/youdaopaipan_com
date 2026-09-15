@@ -9,8 +9,8 @@
 
 目前，有道排盘平台已完成多模块矩阵建设，包含
 - 六爻排盘（ https://liuyao.youdaopaipan.com ）、
-- 八字历法排盘（ https://bazi.youdaopaipan.com ）、
-- 奇门遁甲排盘（ https://qimen.youdaopaipan.com ）
+- 八字排盘（ https://bazi.youdaopaipan.com ）、
+- 奇门排盘（ https://qimen.youdaopaipan.com ）
 - 三合（ https://qimen.youdaopaipan.com/pp ）
 
 等专项子系统。系统支持节气精准交接换算、真太阳时校准、多种流派起盘方式自由切换，并提供清晰的盘面视觉交互与云端命例归档功能，极大地提升了学术研讨与个人学习的效率。

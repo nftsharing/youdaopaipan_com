@@ -107,6 +107,10 @@
 以术入道、体验人生！大家不妨访问图中的链接，亲自尝试一下吧！ 
 
 
+## 汇聚六爻、八字、奇门遁甲、风水、命理与算命占卜爱好者。 官方排盘网站：youdaopaipan.com（免费排盘，AI辅助解卦）。 欢迎命理爱好者交流探讨。Telegram交流群/TG命理群。
 
+六爻八字奇门占卜 | 命理风水交流群 (AI智能排盘解卦)
+
+t.me/liuyaobaziqimenfengshuiminglisua
 
 
